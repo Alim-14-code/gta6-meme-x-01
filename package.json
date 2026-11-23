@@ -1,0 +1,1 @@
+{"dependencies":{"playwright":"^1.55.0"},"description":"GTA 6 meme for make.fun bounty gta6-meme-x-01: a Vice City parking ticket, parked since September 2013.","license":"MIT","main":"main.ts","name":"gta6-meme-x-01","scripts":{"build":"node main.ts","start":"node main.ts"},"type":"module","version":"1.0.0"}
