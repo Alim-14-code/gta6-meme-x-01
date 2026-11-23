@@ -21,4 +21,4 @@ node main.ts   # writes meme.png
 
 ## The post
 
-`POST.json` holds the URL of the X post carrying this meme. Play code: `e6d1qmmj`.
+`POST.json` holds the URL of the X post carrying this meme. Play code: `makefun-peony-pebble-slipper`.

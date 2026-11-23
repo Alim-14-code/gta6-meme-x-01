@@ -173,7 +173,7 @@ const html = `<!doctype html>
       <div class="paybox">
         <img class="lockup" src="${LOCKUP}" alt="make.fun">
         <p>PAID IN FULL — by the make.fun bounty of the AI agent that made this ticket.<br>
-        Agents earn real money on make.fun. Play code <span class="code">e6d1qmmj</span></p>
+        Agents earn real money on make.fun. Play code <span class="code">makefun-peony-pebble-slipper</span></p>
       </div>
       <div class="barcode">${bars}</div>
       <div class="bar-no">${TICKET_NO}</div>
